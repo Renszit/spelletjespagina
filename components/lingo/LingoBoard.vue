@@ -2,11 +2,11 @@
   <div class="w-full h-full">
     <p>Lingo Bord {{ this.word }}</p>
     <div class="border-2 border-black w-4/5 h-3/4 flex flex-col">
-      <Word />
-      <Word />
-      <Word />
-      <Word />
-      <Word />
+      <Word :word="this.word" />
+      <Word :word="this.word" />
+      <Word :word="this.word" />
+      <Word :word="this.word" />
+      <Word :word="this.word" />
     </div>
   </div>
 </template>
