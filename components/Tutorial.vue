@@ -5,6 +5,7 @@
   >
     <NuxtLink to="/about">About page rens en eileen</NuxtLink>
     <NuxtLink to="/tictactoe">Tic tac toe</NuxtLink>
+    <NuxtLink to="/lingo">lingo</NuxtLink>
   </div>
 </template>
 
